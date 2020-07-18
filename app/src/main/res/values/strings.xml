@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MagnumFarizma</string>
+    <string name="search_input_hint">Enter name</string>
+    <string name="no_more_user">No more user found</string>
+    <string name="error">ERROR</string>
+    <string name="error_message">Please check your internet connection and try again</string>
+</resources>
